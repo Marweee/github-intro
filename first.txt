@@ -1,6 +1,6 @@
-we actually have to add extension 
-which i forget to add anyways
+we have to add an extension 
+which I forget to add anyway
 
 
-lets see if its working or not
-so now we are testing it
+let's see if it is working or not
+so now I are testing it
